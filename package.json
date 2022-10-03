@@ -1,0 +1,16 @@
+{
+  "name": "vue-web3-connect-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sasha Broslavskiy",
+  "license": "ISC",
+  "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "bignumber.js": "^9.1.0",
+    "vue": "^2.7.10",
+    "web3": "^1.8.0"
+  }
+}
